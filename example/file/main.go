@@ -8,7 +8,7 @@ import (
 
 	"github.com/spf13/cast"
 
-	"gitlab.com/gobang/logger"
+	"github.com/armiariyan/logger"
 )
 
 type Profile struct {

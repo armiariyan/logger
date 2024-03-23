@@ -1,4 +1,4 @@
-module gitlab.com/gobang/logger
+module github.com/armiariyan/logger
 
 go 1.20
 

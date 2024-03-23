@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/armiariyan/logger"
 	"github.com/stretchr/testify/assert"
-	"gitlab.com/gobang/logger"
 )
 
 func TestInjectCtx(t *testing.T) {

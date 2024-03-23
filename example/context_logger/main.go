@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"gitlab.com/gobang/logger"
+	"github.com/armiariyan/logger"
 )
 
 func main() {
